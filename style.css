@@ -210,12 +210,12 @@
 }
 
 .ex-13-button:hover .ex-13-top-white{
-  animation: top-white-2 3s;
+  animation: top-white-2 5s;
   animation-iteration-count: infinite;
 }
 
 .ex-13-button:hover .ex-13-bottom-white{
-  animation: bottom-white-2 3s;
+  animation: bottom-white-2 5s;
   animation-iteration-count: infinite;
 }
 
